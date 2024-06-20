@@ -65,7 +65,7 @@ def signup():
 
 
 # Route for login
-@app.route('/', methods=['POST'])
+@app.route('/', methods=['GET','POST'])
 def login():
     data = request.json
     username = data.get('username')
