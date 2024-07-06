@@ -21,13 +21,13 @@ YumCraft is an innovative recipe generation application that leverages AI and ma
 - **Frontend**: Flutter
 - **Backend**: Flask
 - **Database**: MongoDB
-- **AI & Machine Learning**: Integrated models to tailor recipes based on user inputs.
+- **AI**: Integrated groq.
 
 ## Installation
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/yumcraft.git
+    git clone https://github.com/arya531/yumcraft-a-recipe-app.git
     cd yumcraft
     ```
 
@@ -98,5 +98,5 @@ We welcome contributions to enhance YumCraft. Please fork the repository, create
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-
-Feel free to modify the content as needed!
+## Contact
+For any questions or issues, please open an issue in the repository or contact aryasuresh2719@gmail.com.
